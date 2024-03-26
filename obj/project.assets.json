@@ -315,11 +315,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/flwrz/Dev/st-4rl1ght/lambda/lambda.csproj",
+      "projectUniqueName": "/home/flwrz/Dev/lambda/lambda.csproj",
       "projectName": "lambda",
-      "projectPath": "/home/flwrz/Dev/st-4rl1ght/lambda/lambda.csproj",
+      "projectPath": "/home/flwrz/Dev/lambda/lambda.csproj",
       "packagesPath": "/home/flwrz/.nuget/packages/",
-      "outputPath": "/home/flwrz/Dev/st-4rl1ght/lambda/obj/",
+      "outputPath": "/home/flwrz/Dev/lambda/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/flwrz/.nuget/NuGet/NuGet.Config"
